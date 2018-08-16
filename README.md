@@ -43,6 +43,7 @@ Valores :
 #### 3. Talento global sobre talento local
 - Buscar personas que estén orientados a los comportamientos definidos por el equipo y/o cualquier variación que puedan surgir a partir de los experimentos y retroalimentaciones realizados en el principio anterior, sin olvidar las referencias dadas en este manifiesto remoto.
 - Contratar personas usando proyectos/ideas/desafíos de pruebas virtuales sobre  entrevistas presenciales, generando evaluaciones periódicas de la posible adhesión de la cultura empresarial remota.
+
 #### 4. Inversión sobre reducción de costos
 - Invertir en licenciamiento de plataformas colaborativas, y una conectividad excelente son necesarios para facilitar el trabajo remoto.
 - Contar con puesto de trabajo(dispositivos y espacio de trabajo seguros) adecuados
