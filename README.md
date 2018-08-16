@@ -14,7 +14,7 @@ Mejorar la comunicación virtual en entornos complejos distribuidos desarrolland
 - Identificar los roles que no son propensos a trabajar remoto por la naturaleza de su accionar.
 
 
-###Valores
+### Valores
 
 La base de este manifiesto se presentan en 5 pilares a favor de combatir la procrastinación y de crear altas conexiones entre las personas remotas,  los cuales se mencionan a continuación: 
 
