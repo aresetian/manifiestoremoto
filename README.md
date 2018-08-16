@@ -1,5 +1,5 @@
 # Manifiesto Remoto 
-por [ Carlos Andres Garcia](https://www.linkedin.com/in/ggcarlosandres/), [Jeison Loaisa Arango](https://www.linkedin.com/in/jeison-loaisa-108aaa13b/)
+por [ Carlos Andres Garcia](https://www.linkedin.com/in/ggcarlosandres/), [Jeison Loaisa Arango](https://www.linkedin.com/in/jeison-loaisa-108aaa13b/) revisión [Luis Mulato](https://www.linkedin.com/in/luismulato/)
 
 # Propósito
 Mejorar la comunicación virtual en entornos complejos distribuidos desarrollando vínculos sociales sustentables.
